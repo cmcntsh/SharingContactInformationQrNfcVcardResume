@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+PRODID:-//BBros.us llc//bvCard.com//EN
+N:Mouse;Mickey;;;
+FN:Mickey Mouse
+EMAIL:mickey.mouse@disneyland.com
+ORG:Disney Land
+TEL:801-555-1234
+URL;type=pref:https://disneyland.disney.go.com/
+ADR:;1313 Disneyland Dr;;Anaheim;CA;92802;USA
+END:VCARD
