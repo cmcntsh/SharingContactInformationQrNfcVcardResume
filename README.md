@@ -46,3 +46,5 @@ GitHub will display pdf files online. You can create a new repository, upload a 
 
 Using GitHub Pages to host your resume and contact details increases the possibilities of what you can do.
 
+* Example online resume (Coding demo here: https://www.youtube.com/watch?v=sVp6KrFeKNI) - 
+
