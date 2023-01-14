@@ -8,6 +8,7 @@ QR stands for "Quick Response". QR codes are increasingly used as a quick way to
 
 * The Story of the QR Code (4 minutes) - https://www.youtube.com/watch?v=k09ip9Z6TCk
 * Create QR Codes for FREE (7 minutes) - https://www.youtube.com/watch?v=GadmYWAVnjE
+* Create a QR Code in Chrome browser: Chrome browser - shift-right-click in webpage - Create QR Code for this page - [The QR Code image will download.]
 
 ## NFC Tags
 
