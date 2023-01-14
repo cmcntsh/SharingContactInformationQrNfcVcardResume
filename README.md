@@ -1,6 +1,6 @@
 # Sharing Contact Information - QR Codes, NFC Tags, vCards, Online Resumes
 
-Once you've created a resume, what next? This page describes different ways to share contact and other information.
+Once you've created a resume, what next? This page describes different ways to share contact details and other information.
 
 ## QR Codes
 
@@ -51,4 +51,5 @@ Using GitHub Pages to host your resume and contact details increases the possibi
 * Share link to online resume using QR code (created with Chrome browser): ![Resume QR Code](qrcode_resumepage_cmcntsh.github.io.png)
 * Share link to online resume using QR code (created with Google Sheets): ![Resume QR Code](ResumeLink.png)
 * Share link to vCard contact details using QR code (created with Google Sheets): ![Resume QR Code](MickeyContactQRCode.png)
+* NFC tags could be used in a similar way to QR codes to share information.
 
