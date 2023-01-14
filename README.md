@@ -19,4 +19,11 @@ NFC stands for "Near Field Communication". NFC tags are also increasingly used a
 
 ## Vcards
 
+Vcards or VCF files are a way to share contact information electronically. VCF stands for "Virtual Card Format". Here is some information on VCF files.
+
+* What is a VCF file? (webpage) https://docs.fileformat.com/email/vcf/
+* How to Create a vCard in Outlook (1 minute) - https://www.youtube.com/watch?v=rLMqYRyGAEw
+* Create .vcf file from Google Contacts: Google Contacts - select contact - Export - vCard - [your .vcf file will download]
+* How to Edit VCF file on Windows 10 (webpage) https://techcult.com/how-to-edit-vcf-file/
+
 ## Online Resumes
