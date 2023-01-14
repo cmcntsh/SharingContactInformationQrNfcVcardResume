@@ -36,4 +36,9 @@ GitHub will display pdf files online. You can create a new repository, upload a 
 
 ### Create a resume on GitHub using markdown
 
+* The Markdown Resume https://mszep.github.io/pandoc_resume/
+* https://blog.chmd.fr/editing-a-cv-in-markdown-with-pandoc.html
+* markdown-cv https://elipapa.github.io/markdown-cv/
+* Markdown Resume Template https://github.com/aonemd/markdown-resume-template
+* The Simplest Markdown Resume Workflow http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html
 
