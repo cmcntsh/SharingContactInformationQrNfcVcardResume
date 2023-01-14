@@ -1,4 +1,4 @@
-# Sharing Contact Information - QR Codes, NFC Chips, Vcards, Online Resumes
+# Sharing Contact Information - QR Codes, NFC Tags, Vcards, Online Resumes
 
 Once you've created a resume, what next? This page describes different ways to share contact and other information.
 
@@ -9,7 +9,13 @@ QR stands for "Quick Response". QR codes are increasingly used as a quick way to
 * The Story of the QR Code (4 minutes) - https://www.youtube.com/watch?v=k09ip9Z6TCk
 * Create QR Codes for FREE (7 minutes) - https://www.youtube.com/watch?v=GadmYWAVnjE
 
-## NFC Chips
+## NFC Tags
+
+NFC stands for "Near Field Communication". NFC tags are also increasingly used as a quick way to provide a link to more information. Here's some information on NFC tags, how to use them with your phone, and how to program them.
+
+* What is an NFC Tag? (2 minutes) - https://www.youtube.com/watch?v=9AqDn3sMVDA
+* How To Use NFC Tags With Your iPhone (9 minutes) - https://www.youtube.com/watch?v=IrfWmDwWdS4
+* How to Make Your Own Digital Business Cards - NFC Tag Tutorial (4 minutes) - https://www.youtube.com/watch?v=1-m4BkCWmtE
 
 ## Vcards
 
