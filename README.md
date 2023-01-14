@@ -42,3 +42,7 @@ GitHub will display pdf files online. You can create a new repository, upload a 
 * Markdown Resume Template https://github.com/aonemd/markdown-resume-template
 * The Simplest Markdown Resume Workflow http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html
 
+### Host your resume and contact details using GitHub Pages
+
+Using GitHub Pages to host your resume and contact details increases the possibilities of what you can do.
+
