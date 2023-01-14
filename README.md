@@ -45,7 +45,7 @@ GitHub will display pdf files online. You can create a new repository, upload a 
 
 ### Host your resume and contact details using GitHub Pages
 
-Using GitHub Pages to host your resume and contact details increases the possibilities of what you can do.
+Using GitHub Pages to host your resume and contact details increases the possibilities of what you can do. GitHub Pages needs to be turned on for your repsitory for the examples below to work. This is done in the settings.
 
 * Example online resume (Coding demo here: https://www.youtube.com/watch?v=sVp6KrFeKNI) - https://cmcntsh.github.io/SharingContactInformationQrNfcVcardResume/index1.html
 * Share link to online resume using QR code: ![Resume QR Code](qrcode_resumepage_cmcntsh.github.io.png)
