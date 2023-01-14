@@ -32,4 +32,8 @@ There are a number of ways you can share your contact details and resume online.
 
 ### Post a pdf of your resume on GitHub
 
-GitHub will display pdf files online. You can create a new repository, upload a pdf of your resume, and provide the link. 
+GitHub will display pdf files online. You can create a new repository, upload a pdf of your resume, and provide the link. Here's a link to a pdf file on this repository: https://github.com/cmcntsh/SharingContactInformationQrNfcVcardResume/blob/main/4b644f8e9658d02af62f7bca2800fecc-Function-resume-template.pdf
+
+### Create a resume on GitHub using markdown
+
+
